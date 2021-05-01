@@ -1,0 +1,6 @@
+com/example/fpades1/domain/Modulo.class
+com/example/fpades1/domain/DesafioRepository.class
+com/example/fpades1/domain/DesafioService.class
+com/example/fpades1/domain/dto/ModuloDTO.class
+com/example/fpades1/api/DesafioController.class
+com/example/fpades1/Fpades1Application.class

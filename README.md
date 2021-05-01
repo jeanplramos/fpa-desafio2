@@ -1,2 +1,10 @@
 # fpa-desafio2
-Desafio 2 do FPA
+FPA Desafio 2
+
+# Para iniciar os containers
+> Entre na pasta principal do repositório
+
+> docker-compose up
+
+# Para testar a aplicação execute:
+curl http://localhost:8000/
